@@ -1,0 +1,1 @@
+Función mensaje de bienvenida:Serviría para incentivar al cliente a que tenga una interacción más personalizada con la pastelería, consultando sus dudasAparece automáticamente al abrir la secciónEl cliente tiene que completar su nombre para que el texto que devuelva este dirigido a él
